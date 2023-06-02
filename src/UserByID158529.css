@@ -1,0 +1,71 @@
+.user__info{
+    text-align: center;  
+} 
+
+table{
+    border:3px groove darkslategrey;
+  
+}
+.table-style {
+    border-collapse: collapse;
+    width: 50%;
+    background-image: url(./UsersBackground.jpg);
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    
+  }
+  
+  .table-style th, .table-style td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .table-style th {
+    background-color: #f2f2f2;
+    color: #333;
+    text-align: center;
+  }
+
+.button_css{
+    background-color: coral;
+    font-weight: bold;
+    font-size: 20px;
+}  
+.button_css:hover{
+    background-color: chocolate;
+}
+  
+img{
+    width: 200px;
+    height: 200px;
+}
+input[type=submit]{
+  background-color: darkorchid;
+  font-size: 20px;
+  font-weight: bold;
+  border: 3px solid black;
+}
+input[type=submit]:hover{
+
+  background-color: rgb(201, 152, 224);
+}
+input[type=text]{
+  color:darkblue;
+  font-weight: bold;
+}
+form{
+  margin: auto;
+  text-align: center;
+}
+.error{
+  color:rgb(182, 10, 10);
+  font-size: 30px;
+  font-weight: bold;
+}
+p{
+  color:rgb(182, 10, 10);
+  font-size: 30px;
+  font-weight: bold;
+}
